@@ -1,17 +1,17 @@
 ---
 layout: post
-title: Esempio di post
+title: Esempio post
 cover: cover.jpg
 date:   2013-12-09 12:00:00
 categories: it posts
 ---
 
-## Presentazione di Flex, un tema di Jekyll
+## Presentazione di Flex, un tema Jekyll
 
-Flex è un tema minimalista e reattivo basato sul sito web [The Development](https://jekyllthemes.io/theme/flex). Un'altra frase...
+Flex è un tema minimalista e reattivo basato sul sito web, [The Development](https://jekyllthemes.io/theme/flex). Un'altra frase...
 
-## Aperto su GitHub
+## Open-Sourced su GitHub
 
-Flex è open source su GitHub e ha una licenza [MIT](https://opensource.org/licenses/MIT). Sentitevi liberi di contribuire a questo progetto in qualsiasi momento!
+Flex è open source su GitHub ed è concesso in licenza sotto la [Licenza MIT](https://opensource.org/licenses/MIT). Sentiti libero di contribuire a questo progetto in qualsiasi momento!
 
-Grazie per aver letto. È stato quasi un piacere.
+Grazie per aver letto. E ci rivedremo presto. Ancora un tentativo
